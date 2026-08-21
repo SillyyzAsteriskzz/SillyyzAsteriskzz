@@ -5,3 +5,4 @@
 <img width="1200" height="1200" alt="1000005571" src="https://github.com/user-attachments/assets/5fa4abd5-d3c6-4c9d-bdc0-1c19630fe8af" />
 <table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{———— , , ✦ , , ————}}$<br> </td> </tr> </table>
 <img width="500" height="500" alt="1000005572" src="https://github.com/user-attachments/assets/80d78644-dc86-4b27-adf7-aba979ee7a0f" />
+<table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{PS ;; none of the art I use here are mine— credits to all of the artists !}}$<br> </td> </tr> </table>
