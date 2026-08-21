@@ -12,8 +12,8 @@
 <table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{I can't accept this as reality.}}$<br> </td> </tr> </table>
 <table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{No, love could never patch your woe,}}$<br> </td> </tr> </table>
 <table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{When your friend has turned into your foe.}}$<br> </td> </tr> </table>
-<table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{So alone, here I stand,}}$<br> </td> </tr> </table>
-<table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{Doesn't matter if I hang off a strand,}}$<br> </td> </tr> </table>
+<table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{Alone, here I'll stand,}}$<br> </td> </tr> </table>
+<table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{Hanging off a single strand.}}$<br> </td> </tr> </table>
 <table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{I'll follow my own law,}}$<br> </td> </tr> </table>
 <table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{And I'll take it all with bone and claw.}}$<br> </td> </tr> </table>
 <table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{———— , , ✦ , , ————}}$<br> </td> </tr> </table>
