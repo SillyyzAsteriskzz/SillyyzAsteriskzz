@@ -16,10 +16,12 @@
 <table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{I can't accept this as reality.}}$<br> </td> </tr> </table>
 <table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{No, love could never patch your woe,}}$<br> </td> </tr> </table>
 <table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{When your friend has turned into your foe.}}$<br> </td> </tr> </table>
-<table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{Alone, here I'll stand,}}$<br> </td> </tr> </table>
-<table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{Hanging off a single strand.}}$<br> </td> </tr> </table>
-<table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{I'll follow my own law,}}$<br> </td> </tr> </table>
-<table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{And I'll take it all with bone and claw.}}$<br> </td> </tr> </table>
+<table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{Although things haven't gone as planned,}}$<br> </td> </tr> </table>
+<table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{I still survive, here I stand.}}$<br> </td> </tr> </table>
+<table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{I never needed you anyway,}}$<br> </td> </tr> </table>
+<table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{All you were was just a toy for play.}}$<br> </td> </tr> </table>
+<table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{My own laws, I shall follow,}}$<br> </td> </tr> </table>
+<table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{It no longer matters if I feel hollow.}}$<br> </td> </tr> </table>
 <table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{———— , , ✦ , , ————}}$<br> </td> </tr> </table>
 <img width="500" height="500" alt="1000005581" src="https://github.com/user-attachments/assets/b630e2ba-183d-4b1a-9bf8-a02cf3acae64" />
 <table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{PS ;; none of the art I use here are mine— credits to all of the artists !}}$<br> </td> </tr> </table>
