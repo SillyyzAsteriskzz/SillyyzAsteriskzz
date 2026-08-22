@@ -1,7 +1,7 @@
 <img width="600" height="75" alt="1000005656" src="https://github.com/user-attachments/assets/8e4ee122-0315-4fb8-80d8-a6f306557e76" />
 <img width="584" height="334" alt="1000005657" src="https://github.com/user-attachments/assets/f61ffee2-c5fb-45b9-a559-85bb60262f9c" />
 
-<table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{—— ✦ ,, So God forbid I'm seen as an average human being ! ,,✦ —— }}$<br> </td> </tr> </table>
+<table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{—— ✦ ,, So God forbid I'm seen just as an average human being ! ,,✦ —— }}$<br> </td> </tr> </table>
 <table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{HIII IM SILLY !! call me sil lolz ,, im a multifandom idiot with a knack for poetry ! XD}}$<br> </td> </tr> </table>
 <table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{they/he pronouns preferred ,, but any is fine !!}}$<br> </td> </tr> </table>
 <table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{fictkins lol ;; Bill Cipher, The Chosen One, Verity, One, and Jax !}}$<br> </td> </tr> </table>
