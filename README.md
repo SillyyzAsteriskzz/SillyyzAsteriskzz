@@ -16,8 +16,10 @@
 <table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{When your friend has turned into your foe.}}$<br> </td> </tr> </table>
 <table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{Although things haven't gone as planned,}}$<br> </td> </tr> </table>
 <table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{I still survive, here I stand.}}$<br> </td> </tr> </table>
+<table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{I'll throw away my flaws,}}$<br> </td> </tr> </table>
+<table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{Shred it all with bones and claws.}}$<br> </td> </tr> </table>
 <table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{I never needed you anyway,}}$<br> </td> </tr> </table>
-<table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{All you were was just a toy for play.}}$<br> </td> </tr> </table>
+<table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{I should've never given you the time of day.}}$<br> </td> </tr> </table>
 <table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{My own laws, I shall follow,}}$<br> </td> </tr> </table>
 <table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{It no longer matters if I feel hollow.}}$<br> </td> </tr> </table>
 <table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{———— , , ✦ , , ————}}$<br> </td> </tr> </table>
