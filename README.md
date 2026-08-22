@@ -22,7 +22,7 @@
 <table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{And I'll take it all with bone and claw.}}$<br> </td> </tr> </table>
 <table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{———— , , ✦ , , ————}}$<br> </td> </tr> </table>
 <img width="500" height="500" alt="1000005581" src="https://github.com/user-attachments/assets/b630e2ba-183d-4b1a-9bf8-a02cf3acae64" />
-
-
 <table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{PS ;; none of the art I use here are mine— credits to all of the artists !}}$<br> </td> </tr> </table>
 <table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{the poem was made by ME though !! hehe !!}}$<br> </td> </tr> </table>
+<table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{doc with my wip and finished poems if u wanna see more of my work 👀}}$<br> </td> </tr> </table>
+https://docs.google.com/document/d/1C1BxXzu3sDcoINK7eIG6VP01eC53U9_W-P766UFQOnU/edit?usp=drivesdk
