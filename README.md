@@ -28,3 +28,7 @@
 <table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{the poem was made by ME though !! hehe !!}}$<br> </td> </tr> </table>
 <table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{doc with my wip and finished poems if u wanna see more of my work 👀}}$<br> </td> </tr> </table>
 https://docs.google.com/document/d/1C1BxXzu3sDcoINK7eIG6VP01eC53U9_W-P766UFQOnU/edit?usp=drivesdk
+<table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{—— ,,✦ ,,——}}$<br> </td> </tr> </table>
+<table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{Let us meet again in another life, my friend.}}$<br> </td> </tr> </table>
+<table> <tr> <td align="center" <td>${\color{#c1e5ff}\text{—— ,,✦ ,,——}}$<br> </td> </tr> </table>
+
