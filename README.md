@@ -81,6 +81,6 @@ Error code: 0x000000
 </pre>
 
 </details>
-——— ,,✦ ,,———
+
 
 <img width="599" height="86" alt="1000005944" src="https://github.com/user-attachments/assets/51701c15-cb94-4714-a6d1-441be087f9fa" />
