@@ -40,4 +40,9 @@
 
 <img width="2664" height="700" alt="1000005962" src="https://github.com/user-attachments/assets/ec85d24d-67cb-4de3-8f3f-a76ef1aeb9a0" />
 
+<details>
+<summary>✦ creds </summary>
+credits 2 nerubessieswife33 on tumblr ! this person made the images shown on my README, and my pfp too !
+</pre>
 
+</details
