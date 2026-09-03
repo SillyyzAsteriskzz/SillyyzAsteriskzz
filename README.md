@@ -1,8 +1,8 @@
 
 <img width="112" height="73" alt="1000006189" src="https://github.com/user-attachments/assets/99cd545e-5356-47ba-8ba9-ee74f57fe2b9" /><img width="468" height="60" alt="1000006184" src="https://github.com/user-attachments/assets/2289381e-6ae7-44be-8e48-05820b086e34" />
 
-<img width="150" height="20" alt="1000006190" src="https://github.com/user-attachments/assets/af462885-4437-4a73-b521-4e6dac915050" />
-<img width="20" height="20" alt="1000006188" src="https://github.com/user-attachments/assets/01b1ebe1-868c-453d-ae9b-2bea36255bcc" />
+<img width="300" height="50" alt="1000006190" src="https://github.com/user-attachments/assets/af462885-4437-4a73-b521-4e6dac915050" />
+<img width="30" height="30" alt="1000006188" src="https://github.com/user-attachments/assets/01b1ebe1-868c-453d-ae9b-2bea36255bcc" />
 
 <details>
 <summary></summary>
@@ -26,3 +26,13 @@
 [![leviathan is real](https://img.shields.io/badge/leviathan%20is%20real-blue)](https://github.com/)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=224864&width=435&lines=Then+believe+in+me.)](https://git.io/typing-svg)
+
+</pre>
+
+</details>
+
+<img width="6400" height="650" alt="1000006191" src="https://github.com/user-attachments/assets/c27591cf-a2d4-41c0-8ae4-3816997081e7" />
+
+_____
+
+> *hii ! im silly !! i like to write n stuff ,, poetry is my main thing ! theres some doc over there in my bio if you wanna see some of my work  ,,*
