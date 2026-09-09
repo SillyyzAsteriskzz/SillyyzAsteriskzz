@@ -21,7 +21,14 @@
 <p align="center">
 <img width="150" height="20" alt="1000006361" src="https://github.com/user-attachments/assets/93c65f77-d06b-47af-a81b-a1689cd79bd1" />
 </p>
-
+<p align="center">
+<a href="#" style="text-decoration: none;">
+  <img
+    src="https://img.shields.io/badge/levi%20is%20real-beige?style=flat&labelColor=%23e8d8c3&color=%23e8d8c3"
+    alt="levi is real"
+  >
+</a>
+</p>
 <p align="center">
 heelloo helloo ! silly here, other names are asterisk, aand my fictkins ! (fictkins in straw !!) 
 </p>
@@ -37,7 +44,14 @@ nonbinary they/he, (might be transmasc ? dunno.)
 <p align="center">
  Yyoouu may also use me as a dictionary ? people are always using me as a dictionary ,, meh.
 </p>
-
+<p align="center">
+<a href="#" style="text-decoration: none;">
+  <img
+    src="https://img.shields.io/badge/levi%20is%20real-beige?style=flat&labelColor=%23e8d8c3&color=%23e8d8c3"
+    alt="levi is real"
+  >
+</a>
+</p>
 
 
 <p align="center">
