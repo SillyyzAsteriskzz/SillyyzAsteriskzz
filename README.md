@@ -27,7 +27,7 @@ heelloo helloo ! silly here, other names are asterisk, aand my fictkins ! (fictk
 </p>
 
 <p align="center">
-nonbinary they/he, (might be transmasc ? dunno.)
+transmasc they/he ! (LET ME OUT OF THE CLOSET AAAAAAAA)
 </p>
 
 <p align="center">
