@@ -50,4 +50,5 @@ transmasc they/he ! (LET ME OUT OF THE CLOSET AAAAAAAA)
 </p>
 <p align="center">
 <img width="400" height="53" alt="1000006371" src="https://github.com/user-attachments/assets/d1d65c34-4bf4-4e84-9066-85216810712f" />
+ 
 </p>
