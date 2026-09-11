@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-heelloo helloo ! silly here, other names are asterisk, aand my fictkins ! (fictkins in straw !!) 
+heelloo helloo ! kryptic here, other names are krypto, aand my fictkins ! (fictkins in straw !!) 
 </p>
 
 <p align="center">
